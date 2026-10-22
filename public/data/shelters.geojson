@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "SH-01",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.11,
+          25.570333
+        ]
+      },
+      "properties": {
+        "id": "SH-01",
+        "name": "Patna Medical College Relief Camp",
+        "capacity": 650,
+        "occupancy": 443,
+        "free_capacity": 207,
+        "ward": "Ward 1 (Riverfront North)",
+        "status": "active",
+        "supplies_ready": true,
+        "medical_triage": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SH-02",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.175,
+          25.573333
+        ]
+      },
+      "properties": {
+        "id": "SH-02",
+        "name": "Kankarbagh Indoor Stadium",
+        "capacity": 800,
+        "occupancy": 371,
+        "free_capacity": 429,
+        "ward": "Ward 2 (Kankarbagh Central)",
+        "status": "active",
+        "supplies_ready": true,
+        "medical_triage": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SH-03",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.113,
+          25.595
+        ]
+      },
+      "properties": {
+        "id": "SH-03",
+        "name": "Rajendra Nagar High School Ground",
+        "capacity": 450,
+        "occupancy": 370,
+        "free_capacity": 80,
+        "ward": "Ward 3 (Rajendra Nagar Lowlands)",
+        "status": "active",
+        "supplies_ready": true,
+        "medical_triage": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SH-04",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.167,
+          25.603
+        ]
+      },
+      "properties": {
+        "id": "SH-04",
+        "name": "Patliputra Polytechnic High-Ground",
+        "capacity": 550,
+        "occupancy": 348,
+        "free_capacity": 202,
+        "ward": "Ward 4 (Patliputra Sector)",
+        "status": "active",
+        "supplies_ready": true,
+        "medical_triage": false
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SH-05",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.11,
+          25.625667
+        ]
+      },
+      "properties": {
+        "id": "SH-05",
+        "name": "East Bypass Disaster Center",
+        "capacity": 700,
+        "occupancy": 455,
+        "free_capacity": 245,
+        "ward": "Ward 5 (Gulzarbagh East)",
+        "status": "active",
+        "supplies_ready": true,
+        "medical_triage": true
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SH-06",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.165,
+          25.627667
+        ]
+      },
+      "properties": {
+        "id": "SH-06",
+        "name": "Bankipore Girls College Pavilion",
+        "capacity": 400,
+        "occupancy": 182,
+        "free_capacity": 218,
+        "ward": "Ward 6 (Bankipore Basin)",
+        "status": "active",
+        "supplies_ready": true,
+        "medical_triage": false
+      }
+    }
+  ]
+}

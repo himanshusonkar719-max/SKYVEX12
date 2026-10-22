@@ -1,0 +1,19 @@
+[
+  "backend/tests/test_all_phases.py::test_evacuation_plan",
+  "backend/tests/test_all_phases.py::test_feature_human_summary",
+  "backend/tests/test_all_phases.py::test_geojson_report_download",
+  "backend/tests/test_all_phases.py::test_pdf_report_download",
+  "backend/tests/test_all_phases.py::test_responder_feedback_and_impact",
+  "backend/tests/test_all_phases.py::test_routing_endpoint_valid",
+  "backend/tests/test_all_phases.py::test_routing_vehicle_depth_limits",
+  "backend/tests/test_all_phases.py::test_sms_alert_160_character_ceiling",
+  "backend/tests/test_phase1.py::test_api_flood_frames_endpoint",
+  "backend/tests/test_phase1.py::test_api_health_endpoint",
+  "backend/tests/test_phase1.py::test_api_layer_geojson",
+  "backend/tests/test_phase1.py::test_api_layers_endpoint",
+  "backend/tests/test_phase1.py::test_api_summary_endpoint",
+  "backend/tests/test_phase1.py::test_building_severity_thresholds",
+  "backend/tests/test_phase1.py::test_data_generation",
+  "backend/tests/test_phase1.py::test_invalid_layer_404",
+  "backend/tests/test_phase1.py::test_ward_urgency_ordering"
+]

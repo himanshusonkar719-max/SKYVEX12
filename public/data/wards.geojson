@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ward_4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14,
+              25.586667
+            ],
+            [
+              85.2,
+              25.586667
+            ],
+            [
+              85.2,
+              25.613333
+            ],
+            [
+              85.14,
+              25.613333
+            ],
+            [
+              85.14,
+              25.586667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward": "Ward 4 (Patliputra Sector)",
+        "ward_id": "W-04",
+        "row": 1,
+        "col": 1,
+        "center": [
+          85.17,
+          25.6
+        ],
+        "urgency_score": 76.5,
+        "exposed_buildings": 46,
+        "blocked_roads_pct": 39.5,
+        "critical_hits": 4,
+        "mean_depth": 0.69,
+        "mean_depth_label": "estimated depth (proxy)",
+        "rank": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ward_2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14,
+              25.56
+            ],
+            [
+              85.2,
+              25.56
+            ],
+            [
+              85.2,
+              25.586667
+            ],
+            [
+              85.14,
+              25.586667
+            ],
+            [
+              85.14,
+              25.56
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward": "Ward 2 (Kankarbagh Central)",
+        "ward_id": "W-02",
+        "row": 0,
+        "col": 1,
+        "center": [
+          85.17,
+          25.573333
+        ],
+        "urgency_score": 49.1,
+        "exposed_buildings": 34,
+        "blocked_roads_pct": 9.1,
+        "critical_hits": 3,
+        "mean_depth": 0.27,
+        "mean_depth_label": "estimated depth (proxy)",
+        "rank": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ward_5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.08,
+              25.613333
+            ],
+            [
+              85.14,
+              25.613333
+            ],
+            [
+              85.14,
+              25.64
+            ],
+            [
+              85.08,
+              25.64
+            ],
+            [
+              85.08,
+              25.613333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward": "Ward 5 (Gulzarbagh East)",
+        "ward_id": "W-05",
+        "row": 2,
+        "col": 0,
+        "center": [
+          85.11,
+          25.626667
+        ],
+        "urgency_score": 34.7,
+        "exposed_buildings": 23,
+        "blocked_roads_pct": 22.2,
+        "critical_hits": 1,
+        "mean_depth": 0.45,
+        "mean_depth_label": "estimated depth (proxy)",
+        "rank": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ward_6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.14,
+              25.613333
+            ],
+            [
+              85.2,
+              25.613333
+            ],
+            [
+              85.2,
+              25.64
+            ],
+            [
+              85.14,
+              25.64
+            ],
+            [
+              85.14,
+              25.613333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward": "Ward 6 (Bankipore Basin)",
+        "ward_id": "W-06",
+        "row": 2,
+        "col": 1,
+        "center": [
+          85.17,
+          25.626667
+        ],
+        "urgency_score": 34.1,
+        "exposed_buildings": 25,
+        "blocked_roads_pct": 15.2,
+        "critical_hits": 1,
+        "mean_depth": 0.42,
+        "mean_depth_label": "estimated depth (proxy)",
+        "rank": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ward_3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.08,
+              25.586667
+            ],
+            [
+              85.14,
+              25.586667
+            ],
+            [
+              85.14,
+              25.613333
+            ],
+            [
+              85.08,
+              25.613333
+            ],
+            [
+              85.08,
+              25.586667
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward": "Ward 3 (Rajendra Nagar Lowlands)",
+        "ward_id": "W-03",
+        "row": 1,
+        "col": 0,
+        "center": [
+          85.11,
+          25.6
+        ],
+        "urgency_score": 12.0,
+        "exposed_buildings": 11,
+        "blocked_roads_pct": 4.8,
+        "critical_hits": 0,
+        "mean_depth": 0.14,
+        "mean_depth_label": "estimated depth (proxy)",
+        "rank": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ward_1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.08,
+              25.56
+            ],
+            [
+              85.14,
+              25.56
+            ],
+            [
+              85.14,
+              25.586667
+            ],
+            [
+              85.08,
+              25.586667
+            ],
+            [
+              85.08,
+              25.56
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ward": "Ward 1 (Riverfront North)",
+        "ward_id": "W-01",
+        "row": 0,
+        "col": 0,
+        "center": [
+          85.11,
+          25.573333
+        ],
+        "urgency_score": 0.0,
+        "exposed_buildings": 0,
+        "blocked_roads_pct": 0.0,
+        "critical_hits": 0,
+        "mean_depth": 0.0,
+        "mean_depth_label": "estimated depth (proxy)",
+        "rank": 6
+      }
+    }
+  ]
+}

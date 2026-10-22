@@ -1,0 +1,54 @@
+{
+  "current_step": 5,
+  "total_steps": 6,
+  "frames": [
+    {
+      "t": 0,
+      "time_label": "T+0h",
+      "filename": "flood_t0.geojson",
+      "max_depth_m": 1.2,
+      "mean_depth_m": 0.65,
+      "area_sq_km": 7.66
+    },
+    {
+      "t": 1,
+      "time_label": "T+1h",
+      "filename": "flood_t1.geojson",
+      "max_depth_m": 1.48,
+      "mean_depth_m": 0.84,
+      "area_sq_km": 17.12
+    },
+    {
+      "t": 2,
+      "time_label": "T+2h",
+      "filename": "flood_t2.geojson",
+      "max_depth_m": 1.76,
+      "mean_depth_m": 1.04,
+      "area_sq_km": 30.35
+    },
+    {
+      "t": 3,
+      "time_label": "T+3h",
+      "filename": "flood_t3.geojson",
+      "max_depth_m": 2.04,
+      "mean_depth_m": 1.23,
+      "area_sq_km": 47.35
+    },
+    {
+      "t": 4,
+      "time_label": "T+4h",
+      "filename": "flood_t4.geojson",
+      "max_depth_m": 2.32,
+      "mean_depth_m": 1.42,
+      "area_sq_km": 68.13
+    },
+    {
+      "t": 5,
+      "time_label": "T+5h",
+      "filename": "flood_t5.geojson",
+      "max_depth_m": 2.6,
+      "mean_depth_m": 1.62,
+      "area_sq_km": 92.68
+    }
+  ]
+}

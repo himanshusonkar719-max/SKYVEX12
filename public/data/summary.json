@@ -1,0 +1,34 @@
+{
+  "affected_buildings": 139,
+  "flooded_road_km": 36.82,
+  "cutoff_habitats": 24,
+  "top_wards": [
+    {
+      "ward": "Ward 4 (Patliputra Sector)",
+      "urgency_score": 76.5,
+      "rank": 1,
+      "exposed_buildings": 46,
+      "blocked_roads_pct": 39.5
+    },
+    {
+      "ward": "Ward 2 (Kankarbagh Central)",
+      "urgency_score": 49.1,
+      "rank": 2,
+      "exposed_buildings": 34,
+      "blocked_roads_pct": 9.1
+    },
+    {
+      "ward": "Ward 5 (Gulzarbagh East)",
+      "urgency_score": 34.7,
+      "rank": 3,
+      "exposed_buildings": 23,
+      "blocked_roads_pct": 22.2
+    }
+  ],
+  "generated_at": "2026-10-22T11:15:00.786274Z",
+  "time_to_map_seconds": 0.01,
+  "total_shelters": 6,
+  "shelter_available_capacity": 1381,
+  "total_shelter_capacity": 3550,
+  "depth_proxy_note": "All depths are estimated proxies calculated from elevation & radar backscatter."
+}

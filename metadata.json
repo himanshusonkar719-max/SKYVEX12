@@ -1,0 +1,6 @@
+{
+  "name": "FloodLens",
+  "description": "Satellite-based hyperlocal flood detection and impact mapping on an interactive 3D globe with exploded layers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

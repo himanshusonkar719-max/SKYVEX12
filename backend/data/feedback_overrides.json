@@ -1,0 +1,10 @@
+{
+  "road_1": {
+    "road_id": "road_1",
+    "status": "impassable",
+    "depth_override_m": 0.85,
+    "reporter": "Unit-Alpha",
+    "note": "Submerged under deep runoff",
+    "updated_at": "2026-10-22T11:15:00.428823Z"
+  }
+}
